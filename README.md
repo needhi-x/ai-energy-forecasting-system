@@ -25,8 +25,11 @@ NumPy
 Scikit-learn
 Matplotlib
 
-📊 Dataset
-![dataset preview](images/dataset_preview.png)
+## 📊 Dataset
+
+### 🔹 Dataset Preview  
+📂 Path: [images/dataset_preview.png](images/dataset_preview.png)  
+![Dataset](images/dataset_preview.png)
 
 ## 📊 Results
 
