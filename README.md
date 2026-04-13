@@ -66,10 +66,11 @@ Evaluate performance
 Visualize results
 
 ▶️ How to Run
-Step 1: Install dependencies
- pip install -r requirements.txt
-Step 2: Run the project
- python main.py
+Step 1: Install dependencies  
+pip install -r requirements.txt  
+
+Step 2: Run the project  
+python main.py
 
 🧠 Learning Outcomes
 Time-series forecasting
