@@ -73,12 +73,14 @@ Step 2: Run the project
 python main.py
 
 🧠 Learning Outcomes
+
 Time-series forecasting
 Machine Learning model development
 Data preprocessing
 Visualization techniques
 
 💡 Future Improvements
+
 Use advanced models (Random Forest, LSTM)
 Add external data
 Build dashboard
