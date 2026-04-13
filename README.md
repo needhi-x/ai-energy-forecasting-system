@@ -1,6 +1,6 @@
 ⚡ AI-Powered Energy Consumption Forecasting System
 📌 Overview
-This project predicts future energy consumption using Machine Learning based on historical time-series data. It helps simulate how industries forecast demand to optimize energy usage and reduce costs.
+This project predicts future energy consumption using Machine Learning based on historical time-series data. It simulates how industries forecast energy demand to optimize usage and reduce costs.
 
 🚀 Features
 Time-series energy forecasting
@@ -19,21 +19,30 @@ Matplotlib
 📊 Results
 📈 Prediction Graph
 📉 Model Output
-🗂 Project Structure
 
 ▶️ How to Run
 python main.py
 
 
 📁 Folder Structure
-data/ → dataset
-src/ → code modules
-images/ → screenshots
-outputs/ → predictions
+AI-Energy-Forecasting/
+│
+├── data/          # dataset
+├── src/           # source code
+├── images/        # screenshots
+├── outputs/       # predictions
+├── models/        # saved models
+├── notebooks/     # experiments
+├── docs/          # documentation
+│
+├── main.py
+├── README.md
+├── requirements.txt
+
 
 📊 Output
 predictions.csv
-prediction graph
+Prediction graph
 RMSE & R² score
 
 🎯 Learning Outcomes
@@ -46,10 +55,10 @@ GitHub project structuring
 🔮 Future Improvements
 Use advanced models (Random Forest, LSTM)
 Add real-world datasets (weather, holidays)
-Deploy as web app
+Deploy as web application
 
 👩‍💻 Author
-Nidhi Apotikar
-GitHub: https://github.com/needhi-x
+Nidhi Apotikar  
+ 🔗 GitHub: https://github.com/needhi-x
 
-🚀 Built as a portfolio project to showcase AI/ML skills for internships and placements.
+🚀 Built as a portfolio project for internships and placements.
