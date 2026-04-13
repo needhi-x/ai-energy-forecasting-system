@@ -1,11 +1,13 @@
-⚡ AI-Powered Energy Consumption Forecasting System
+⚡ AI-Powered Energy Consumption Forecasting System  
+🚀 End-to-End Machine Learning Project for Energy Forecasting
+
 📌 Project Overview
-This project is a Machine Learning-based system that predicts future energy consumption using historical data.
- It demonstrates how industries forecast energy demand and optimize usage.
+This project predicts future energy consumption using Machine Learning based on historical time-series data.
+It simulates how industries forecast energy demand to optimize usage and reduce operational costs.
 
 🎯 Problem Statement
 Traditional methods fail to accurately predict energy usage.
- This project uses Machine Learning to:
+This project uses Machine Learning to:
 Analyze historical energy data
 Identify patterns
 Forecast future energy demand
@@ -27,8 +29,7 @@ Matplotlib
 
 ## 📊 Dataset
 
-### 🔹 Dataset Preview  
-📂 Path: [images/dataset_preview.png](images/dataset_preview.png)  
+### 🔹 Dataset Preview    
 ![Dataset](images/dataset_preview.png)
 
 ## 📊 Results
