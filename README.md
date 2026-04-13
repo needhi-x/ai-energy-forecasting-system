@@ -35,20 +35,19 @@ Matplotlib
 ### 📉 Model Output
 ![Model Output](images/model_output.png)
 
-"
+## 📂 Project Structure
 
-📂 Project Structure
-AI-Energy-Forecasting/ │ ├── data/
- ├── src/
- ├── images/
- ├── outputs/
- ├── models/
- ├── notebooks/
- ├── docs/
- ├── main.py
- ├── README.md
-
-"
+AI-Energy-Forecasting/
+│
+├── data/        → dataset  
+├── src/         → source code  
+├── images/      → screenshots  
+├── outputs/     → results  
+├── models/      → saved model  
+├── notebooks/   → experiments  
+├── docs/        → documentation  
+├── main.py      → main execution file  
+├── README.md    → project documentation
 
 ⚙️ Workflow
 Load dataset
