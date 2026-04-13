@@ -25,6 +25,16 @@ NumPy
 Scikit-learn
 Matplotlib
 
+
+
+📊 Results
+📈 Prediction Graph
+📂 Path: images/prediction_graph.png
+📉 Model Output
+📂 Path: images/model_output.png
+
+"
+
 📂 Project Structure
 AI-Energy-Forecasting/ │ ├── data/
  ├── src/
@@ -36,6 +46,8 @@ AI-Energy-Forecasting/ │ ├── data/
  ├── main.py
  ├── README.md
 
+"
+
 ⚙️ Workflow
 Load dataset
 Preprocess data
@@ -43,6 +55,8 @@ Train model
 Predict energy consumption
 Evaluate performance
 Visualize results
+
+
 
 ▶️ How to Run
 Step 1: Install dependencies
