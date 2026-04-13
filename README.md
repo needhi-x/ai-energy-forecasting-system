@@ -27,11 +27,13 @@ Matplotlib
 
 
 
-📊 Results
-📈 Prediction Graph
-📂 Path: images/prediction_graph.png
-📉 Model Output
-📂 Path: images/model_output.png
+## 📊 Results
+
+### 📈 Prediction Graph
+![Prediction Graph](images/prediction_graph.png)
+
+### 📉 Model Output
+![Model Output](images/model_output.png)
 
 "
 
