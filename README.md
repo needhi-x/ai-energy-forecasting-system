@@ -62,8 +62,6 @@ Predict energy consumption
 Evaluate performance
 Visualize results
 
-
-
 ## ▶️ How to Run
 
 Step 1: Install dependencies  
