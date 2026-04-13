@@ -73,6 +73,11 @@ pip install -r requirements.txt
 Step 2: Run the project  
 python main.py
 
+## 📄 Documentation
+
+Detailed project explanation available here:  
+👉 [Project Explanation](docs/project_explanation.md)
+
 🧠 Learning Outcomes
 
 
