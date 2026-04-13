@@ -82,10 +82,13 @@ Visualization techniques
 💡 Future Improvements
 
 Use advanced models (Random Forest, LSTM)
+
 Add external data
+
 Build dashboard
 
 📌 Author
 Nidhi Apotikar
+
 🚀 Built as a portfolio project for internships and placements.
 
