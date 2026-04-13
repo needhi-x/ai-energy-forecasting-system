@@ -1,14 +1,22 @@
 ⚡ AI-Powered Energy Consumption Forecasting System
-📌 Overview
-This project predicts future energy consumption using Machine Learning based on historical time-series data.
- It simulates how industries forecast energy demand to optimize usage and reduce costs.
+📌 Project Overview
+This project is a Machine Learning-based system that predicts future energy consumption using historical data.
+ It demonstrates how industries forecast energy demand and optimize usage.
+
+🎯 Problem Statement
+Traditional methods fail to accurately predict energy usage.
+ This project uses Machine Learning to:
+Analyze historical energy data
+Identify patterns
+Forecast future energy demand
 
 🚀 Features
-Time-series energy forecasting
-Data preprocessing and feature engineering
-Machine Learning model (Linear Regression)
-Visualization of Actual vs Predicted values
-Model evaluation using RMSE and R²
+Data preprocessing
+Feature engineering
+Linear Regression model
+Energy consumption prediction
+Visualization (Actual vs Predicted)
+Model evaluation (RMSE, R²)
 
 🛠 Tech Stack
 Python
@@ -17,71 +25,49 @@ NumPy
 Scikit-learn
 Matplotlib
 
-📊 Results
-📈 Prediction Graph
-Path: images/prediction_graph.png
+📂 Project Structure
+AI-Energy-Forecasting/ │ ├── data/
+ ├── src/
+ ├── images/
+ ├── outputs/
+ ├── models/
+ ├── notebooks/
+ ├── docs/
+ ├── main.py
+ ├── README.md
 
-📉 Model Output
-Path: images/model_output.png
-
+⚙️ Workflow
+Load dataset
+Preprocess data
+Train model
+Predict energy consumption
+Evaluate performance
+Visualize results
 
 ▶️ How to Run
-Install dependencies:
-pip install -r requirements.txt
+Step 1: Install dependencies
+ pip install -r requirements.txt
+Step 2: Run the project
+ python main.py
 
-Run the project:
-python main.py
+📊 Results
+📈 Prediction Graph
+📂 Path: images/prediction_graph.png
 
-
-📁 Folder Structure
-AI-Energy-Forecasting/
-│
-├── data/
-│   └── energy.csv
-│
-├── images/
-│   ├── prediction_graph.png
-│   └── model_output.png
-│
-├── outputs/
-│   └── predictions.csv
-│
-├── models/
-│   └── model.pkl
-│
-├── notebooks/
-│   └── exploration.ipynb
-│
-├── docs/
-│   └── project_explanation.md
-│
-├── src/
-│   └── (your python files)
-│
-├── main.py
-├── requirements.txt
-└── README.md
+📉 Model Output
+📂 Path: images/model_output.png
 
 
-📊 Output
-predictions.csv
-Prediction graph
-RMSE & R² score
-
-🎯 Learning Outcomes
+🧠 Learning Outcomes
 Time-series forecasting
-Feature engineering
-Machine Learning model building
-End-to-end project development
-GitHub project structuring
+Machine Learning model development
+Data preprocessing
+Visualization techniques
 
-🔮 Future Improvements
-Use advanced models like Random Forest or LSTM
-Add real-world datasets (weather, holidays)
-Deploy as a web application
+💡 Future Improvements
+Use advanced models (Random Forest, LSTM)
+Add external data
+Build dashboard
 
-👩‍💻 Author
+📌 Author
 Nidhi Apotikar
- GitHub: https://github.com/needhi-x
-
-🚀 Built as a portfolio project for internships and placements.
