@@ -59,19 +59,13 @@ Visualize results
 
 
 
-▶️ How to Run
-Step 1: Install dependencies
- pip install -r requirements.txt
-Step 2: Run the project
- python main.py
+## ▶️ How to Run
 
-📊 Results
-📈 Prediction Graph
-📂 Path: images/prediction_graph.png
+Step 1: Install dependencies  
+pip install -r requirements.txt  
 
-📉 Model Output
-📂 Path: images/model_output.png
-
+Step 2: Run the project  
+python main.py
 
 🧠 Learning Outcomes
 Time-series forecasting
