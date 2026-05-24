@@ -44,6 +44,11 @@ Matplotlib
 
 ![Model Output](images/model_output.png)
 
+Dashboard
+
+![Dashboard](images/dashboard_ui.png)
+
+
 📂 Project Structure
 AI-Energy-Forecasting/
 │
@@ -91,7 +96,6 @@ Use advanced models (Random Forest, LSTM)
 
 Add external data
 
-Build dashboard
 
 📌 Author
 
